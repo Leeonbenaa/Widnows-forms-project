@@ -1,0 +1,21 @@
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\bin\Debug\net6.0-windows\Analitička geometrija prostora.exe
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\bin\Debug\net6.0-windows\Analitička geometrija prostora.deps.json
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\bin\Debug\net6.0-windows\Analitička geometrija prostora.runtimeconfig.json
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\bin\Debug\net6.0-windows\Analitička geometrija prostora.dll
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\bin\Debug\net6.0-windows\Analitička geometrija prostora.pdb
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička geometrija prostora.csproj.AssemblyReference.cache
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička_geometrija_prostora.Form1.resources
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička geometrija prostora.csproj.GenerateResource.cache
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička geometrija prostora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička geometrija prostora.AssemblyInfoInputs.cache
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička geometrija prostora.AssemblyInfo.cs
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička geometrija prostora.csproj.CoreCompileInputs.cache
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička geometrija prostora.dll
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\refint\Analitička geometrija prostora.dll
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička geometrija prostora.pdb
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička geometrija prostora.genruntimeconfig.cache
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\ref\Analitička geometrija prostora.dll
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička_geometrija_prostora.Properties.Resources.resources
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička_geometrija_prostora.OsnovneOperacije.resources
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička_geometrija_prostora.AlgoritmiUdaljenost.resources
+C:\Users\madel\OneDrive\Radna površina\Završni rad\Analitička geometrija prostora\Analitička geometrija prostora\obj\Debug\net6.0-windows\Analitička_geometrija_prostora.AlgoritmiFirst.resources
